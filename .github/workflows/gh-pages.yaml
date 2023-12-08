@@ -14,5 +14,4 @@ jobs:
       - uses: subosito/flutter-action@v2
       - uses: bluefireteam/flutter-gh-pages@v8
         with:
-          workingDir: example
-          baseHref: /nes_ui/
+          baseHref: /pixel_dash/

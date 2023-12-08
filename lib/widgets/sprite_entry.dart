@@ -39,12 +39,14 @@ class SpriteEntry extends StatelessWidget {
             const SizedBox(height: 16),
             Link(
               label: l10n.image,
-              link: 'https://github.com/erickzanardo/pixel_dash/blob/main/assets/renders/$name.png',
+              link:
+                  'https://github.com/erickzanardo/pixel_dash/blob/main/assets/renders/$name.png',
             ),
             const SizedBox(height: 16),
             Link(
               label: l10n.source,
-              link: 'https://github.com/erickzanardo/pixel_dash/blob/main/assets/source/$name.aseprite',
+              link:
+                  'https://github.com/erickzanardo/pixel_dash/blob/main/assets/source/$name.aseprite',
             ),
           ],
         ),
