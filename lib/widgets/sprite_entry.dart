@@ -46,7 +46,7 @@ class SpriteEntry extends StatelessWidget {
             Link(
               label: l10n.source,
               link:
-                  'https://github.com/erickzanardo/pixel_dash/blob/main/assets/source/$name.aseprite',
+                  'https://github.com/erickzanardo/pixel_dash/blob/main/assets/sources/$name.aseprite',
             ),
           ],
         ),
