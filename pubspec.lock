@@ -321,10 +321,10 @@ packages:
     dependency: "direct main"
     description:
       name: nes_ui
-      sha256: "3d864e8cf9670669700c4157889121a80810ecd44291a40141024693125f5d06"
+      sha256: "10657c92aacfdfb714c801789c1eb015bab505ba6e4d5b4d4fd7a72a439df845"
       url: "https://pub.dev"
     source: hosted
-    version: "0.10.0"
+    version: "0.12.1"
   nested:
     dependency: transitive
     description:
