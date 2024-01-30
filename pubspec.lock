@@ -175,10 +175,10 @@ packages:
     dependency: transitive
     description:
       name: flutter_mini_sprite
-      sha256: ece0c9b189dce5310db7ba4f5976a4e30698cbcd9486327a2d49d8b45b5f55eb
+      sha256: "3ade17b6af09911052531bc7548bf84ed44072c8d49861d9838a7a1445925cec"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.1+1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -321,10 +321,10 @@ packages:
     dependency: "direct main"
     description:
       name: nes_ui
-      sha256: "3d864e8cf9670669700c4157889121a80810ecd44291a40141024693125f5d06"
+      sha256: "3dd7f7c270d8e5b9318ce10e843dfeddb74e2065b9fe80683c8a668e22935374"
       url: "https://pub.dev"
     source: hosted
-    version: "0.10.0"
+    version: "0.14.0"
   nested:
     dependency: transitive
     description:
